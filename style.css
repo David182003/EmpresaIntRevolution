@@ -1,6 +1,7 @@
 header{
     border-bottom: solid 5px black;
     box-shadow:5px 15px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
 }
 nav{
     height: 40vh;
