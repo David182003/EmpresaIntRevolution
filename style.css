@@ -1,0 +1,10 @@
+header{
+    border-bottom: solid 5px black;
+    box-shadow:5px 15px 10px rgba(0, 0, 0, 0.5);
+}
+nav{
+    height: 40vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
